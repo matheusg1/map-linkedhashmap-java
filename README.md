@@ -26,6 +26,7 @@ Exercício do curso "**Java COMPLETO Programação Orientada a Objetos + Projeto
     Maria Green: 71
     Bob Brown: 61
 
+---
 *Criei o Map "registroVotacao" para gravar os registros, usei o FileReader para ler os arquivos, fiz a separação por linhas, depois por vírgulas. Adicionei os valores em variáveis "nome" e "votos". Após isso usei o método ".containsKey" para checar se já existe a chave no Map com os registros de votação. Caso a chave já exista, o valor lido será somado ao valor existente no Map. Usei o LinkedHashMap para manter a ordem de inserção, como foi dado no exemplo. A minha versão recebe o diretório no código ao invés de recebê-lo por uma entrada.*
 
 
